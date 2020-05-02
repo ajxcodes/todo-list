@@ -19,7 +19,7 @@ class TodoRepository {
   // return all todos
 
   findAll() {
-    return this.model.find();
+    return this.model.find().sort([['done', -1]])
   }
 
   //find todo by the id

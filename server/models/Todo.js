@@ -10,6 +10,9 @@ const todoSchema = new Schema({
   done: {
     type: Boolean,
   },
+  color: {
+    type: String,
+  }
 });
 
 const Todo = mongoose.model('Todo', todoSchema);
