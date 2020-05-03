@@ -12,3 +12,5 @@ APIs
 * DELETE - /todos:id - Delete a new todo item
 
 Part 2 - https://dev.to/abiodunjames/build-a-todo-app-with-nodejs-expressjs-mongodb-and-vuejs--part-2--3k11
+
+Part 3 - https://dev.to/abiodunjames/build-a-todo-app-with-node-js-expressjs-mongodb-and-vuejs-part-3-h4m
