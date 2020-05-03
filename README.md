@@ -11,3 +11,4 @@ APIs
 * PUT - /todos:id - Update a todo item
 * DELETE - /todos:id - Delete a new todo item
 
+Part 2 - https://dev.to/abiodunjames/build-a-todo-app-with-nodejs-expressjs-mongodb-and-vuejs--part-2--3k11
